@@ -9,7 +9,7 @@ RGB underglow as standard.
 ```
 $ git clone 'https://github.com/qmk/qmk_firmware.git'
 $ cd qmk_firmware
-$ git clone <this repo> keyboards/dz60/half_kh_hacker
+$ git clone <this repo> keyboards/dz60/keymaps/half_kh_hacker
 $ make dz60:half_kh_hacker # Build
 $ sudo make dz60:half_kh_hacker:dfu # Flash
 ```
